@@ -32,7 +32,7 @@ This update coming soon before tomorrow
 
 ## Connect With Us
 
-We're committed to building a supportive and engaging community of learners and developers. Connect with us and your peers through:
+We're committed to building a supportive and engaging community of learners and developers. Connect with us and your peers through:..
 
 - **Personal Website**: [Visit MasyncTech](https://masynctech.com/)
 - **Facebook**: [Follow us on Facebook](https://www.facebook.com/masynctech)
